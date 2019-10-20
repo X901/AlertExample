@@ -6,7 +6,8 @@ Customize Alert  Example with easiest way !
 - on anywhere you want to display alert with buttons 
 call it like this :
 
-   ```Alert.showAlertWithButtons(on: self, title: "Do you want to delete it ?", message: "", options: "Yes","No") { (option) in
+   ```
+   Alert.showAlertWithButtons(on: self, title: "Do you want to delete it ?", message: "", options: "Yes","No") { (option) in
                  
                  switch(option) {
                     //mean the 1st button
@@ -26,5 +27,6 @@ call it like this :
                      break
                  }
 
-             }```
+             }
+             ```
 
