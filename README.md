@@ -2,7 +2,7 @@
 Customize Alert  Example with easiest way !
 
 ### How to use it ?
-- Add drag Alert.swift to your project
+- Drag Alert.swift to your project
 - on anywhere you want to display alert with buttons 
 call it like this :
 
